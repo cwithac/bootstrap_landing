@@ -1,0 +1,18 @@
+.jumbotron {
+  background-image: url('images/luca-bravo-415109.jpg');
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+}
+
+.btn {
+  background-color: #DDDDDD !important;
+  border-color: #DDDDDD !important;
+  color: #111111;
+}
+
+.form-inline {
+  justify-content: center;
+}

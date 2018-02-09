@@ -7,3 +7,5 @@ _Modeled after 'App Landing Page' via Udemy: The Complete Web Developer Course 2
 - CSS (Bootstrap)
 - JavaScript
 ```
+[Unsplash](https://unsplash.com/photos/4yta6mU66dE)
+[Metaphorpsum](http://metaphorpsum.com/)
