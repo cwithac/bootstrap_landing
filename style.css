@@ -26,3 +26,15 @@
 .card-img-top {
   width: 100%;
 }
+
+#download {
+  justify-content: center;
+  margin-top: 5%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  background-color: #DDDDDD;
+}
+
+#download .lead {
+  text-align: center;
+}
