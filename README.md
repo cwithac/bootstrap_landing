@@ -4,8 +4,9 @@ _Modeled after 'App Landing Page' via Udemy: The Complete Web Developer Course 2
 
 ```
 - HTML
-- CSS (Bootstrap)
-- JavaScript
+- CSS
+- Bootstrap 4
 ```
 [Unsplash](https://unsplash.com/photos/4yta6mU66dE)
 [Metaphorpsum](http://metaphorpsum.com/)
+[Font Awesome](https://fontawesome.com/icons/hotjar?style=brands)

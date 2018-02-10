@@ -16,3 +16,13 @@
 .form-inline {
   justify-content: center;
 }
+
+#app-summary {
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.card-img-top {
+  width: 100%;
+}
